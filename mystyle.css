@@ -1,0 +1,500 @@
+body
+{
+	font-family: 'Quicksand', sans-serif;
+	line-height: 4px;
+}
+
+.jumbotron
+{
+	
+	padding: 15px;
+}
+.container-fluid
+{
+	margin: 0px;
+	padding: 0px;
+}
+.header .fa
+{
+	color: #ff7264;
+}
+
+.wrapper
+{
+	padding: 0px;
+}
+.logo
+{
+	margin-bottom: 20px;
+}
+.btn
+{
+	margin-bottom: 20px;
+
+}
+.carousel-caption p
+{
+	text-align: top;
+	font-size: 30px;
+	color: grey;
+}
+.carousel-caption h2
+{
+	color: black;
+	text-align: top;
+	font-size: 35px;
+}
+#imageCarousel
+{
+	margin-bottom: 30px;
+}
+p
+{
+	text-align: justify;
+	line-height: 26px;
+}
+.navbar
+{
+	background-color: #343e47;
+	border: 1px solid #343e47;
+	margin: 0px;
+	padding: 0px;
+}
+.navbar ul li
+{
+	margin: 5px;
+	padding: 5px; 
+}
+.navbar-inverse .navbar-nav > li > a
+{
+    color: #f2dede;
+}
+.navbar-nav > li > .dropdown-menu
+{
+	background-color: white;
+}
+.navbar-nav > li > .dropdown-menu a
+{
+	color: black;
+}
+.navbar-nav > li > .dropdown-menu a:hover
+{
+	background-color: #ff7264;
+}
+.fa {
+    font-size: 40px;
+}
+a
+{
+	color: black;
+    text-decoration: none;
+}
+a:hover
+{
+	color: #9ba0a5;
+	text-decoration: none;
+}
+
+h1
+{
+	font-size: 93px;
+	text-align: center;
+	line-height: 24px;
+}
+h3
+{
+	
+	line-height: 24px;
+}
+h5
+{
+	font-size: 16px;
+	line-height: 22px;
+}
+.News
+{
+	background-color: #4e4c4c;
+	color: white;
+	padding: 20px;
+}
+.wrapper .fa
+{
+	font-size: 15px;
+	color: #ff7264;
+}
+.wrapper h3 a
+{
+	font-size: 20px;
+	color: white;
+}
+.wrapper .h4
+{
+	color: #ff7264;
+}
+.panel .icons .fa
+{
+font-size: 40px;
+}
+.panel .icons:hover
+{
+	color: #ff7264;
+}
+.footer-right p1
+{
+	color: white;
+}
+.footer-right-top
+{
+	background-color: #ff7264;
+	margin: 0px;
+	padding: 5px;
+	font-size: 20px;
+}
+.footer-right-top .fa
+{
+	font-size: 25px;
+	margin: 10px;
+}
+.footer-right-body1 li
+{
+	margin: 0px;
+	padding: 25px;
+	font-size: 15px;
+	border-bottom: 1px solid grey;
+	list-style-type: none;
+	background-color: rgb(60, 60, 60);
+}
+.footer-right-body2 li
+{
+	margin: 0px;
+	padding: 25px;
+	font-size: 15px;
+	border-bottom: 1px solid grey;
+	list-style-type: none;
+	background-color: rgb(60, 60, 60);
+}
+.footer-right-body3 li
+{
+	margin: 0px;
+	padding: 25px;
+	font-size: 15px;
+	list-style-type: none;
+	background-color: rgb(60, 60, 60);
+}
+.button .btn
+{
+	border: 1px solid #ff7264;
+}
+.button .btn:hover
+{
+	background-color: #ff7264;
+}
+.mobile .fa
+{
+	font-size: 70px;
+	margin-top: 55px;
+}
+.mobile1 .fa
+{
+	font-size: 50px;
+	margin-top: 65px;
+}
+.mobile2 .fa
+{
+	font-size: 50px;
+	margin-top: 65px;
+}
+.footer1
+{
+	background-color: #ebebeb;
+	margin-top: 20px;
+	width: 100%;
+}
+.footer1 .fa
+{
+	font-size: 20px;
+	margin: 5px;
+	color: white;
+}
+.form
+{
+	border: 1px solid #ddd;
+	background-color: white;
+	margin: 40px;
+	padding: 10px;
+	position: relative;
+
+}
+.form .form-wrapper
+{
+	width: 100%;
+    line-height: 26px;
+    color: #343e47;
+    font-size: 16px;
+    padding-top: 25px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.form h3
+{
+	text-align: center;
+}
+#textstyle1
+{
+	width: 100%;
+	height: 47px;
+	background-color: #ebebeb;
+	border: 1px solid #ebebeb; 
+}
+#textstyle2
+{
+	height: 47px;
+	width: 100%;
+	background-color: #ebebeb;
+	border: 1px solid #ebebeb; 
+}
+#textstyle3
+{
+	height: 47px;
+	width: 100%;
+	background-color: #ebebeb;
+	border: 1px solid #ebebeb; 
+}
+
+#comment
+{
+	height: 185px;
+	border: 1px solid #ebebeb;
+	background-color: #ebebeb;
+
+}
+.comments
+{
+	width: 100%;
+}
+.submit
+{
+	text-align: right;
+}
+.footer2
+{
+	background-color: #ff7264;
+    width: 100%;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+
+.footer3
+{
+	background-color: #343e47;
+	color: white;
+}
+.image
+{
+	margin: 20px;
+}
+#image
+{
+	margin-top: 40px;
+}
+.Appointment
+{
+	margin-top: 40px;
+}
+.Appointment .fa
+{
+	font-size: 30px;
+	color: #ff7264;
+}
+.Appointment a
+{
+	font-size: 19px;
+	color: white;
+}
+.Services>li
+{
+	list-style: none;
+	line-height: 22px;
+	font-size: 15px;
+}
+.Services a
+{
+color: #ff7264;
+}
+.Services2
+{
+	margin-top: 45px;
+}
+.Services2>li
+{
+	list-style: none;
+	line-height: 22px;
+	font-size: 15px;
+}
+.Services2 a
+{
+color: #ff7264;
+}
+p1
+{
+	text-align: justify;
+	line-height: 20px;
+	color: #989797;
+}
+.icon .fa
+{
+	font-size: 20px;
+}
+.footer
+{
+	margin: 10px;
+	height: 50px;
+}
+#footer-left
+{
+	
+	text-align: center;
+}
+#footer-right1
+{
+	text-align: center;
+
+}
+
+
+#images1 img
+{
+	width: 328px;
+    height: 216px;
+    display: inline-block;
+}
+#images2 img
+{
+	width: 256px;
+    height: 216px;
+    display: inline-block;
+}
+#images3 img
+{
+	width: 328px;
+    height: 216px;
+    display: inline-block;
+}
+#images4 img
+{
+	width: 328px;
+    height: 216px;
+    display: inline-block;
+}
+#images5 img
+{
+	width: 328px;
+    height: 179px;
+    display: inline-block;
+}
+#images6 img
+{
+	width: 118px;
+    height: 179px;
+    display: inline-block;
+}
+#images7 img
+{
+	width: 263px;
+    height: 179px;
+    display: inline-block;
+}
+#images8 img
+{
+	width: 252px;
+    height: 179px;
+    display: inline-block;
+}
+#images9 img
+{
+	width: 242px;
+    height: 179px;
+    display: inline-block;
+}
+.container1 {
+  position: relative;
+  width: 100%;
+}
+
+.image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.overlay {
+  position: absolute;
+  bottom: 0;
+  left: 100%;
+  right: 0;
+  background-color: rgba(120, 120, 120, 0.6);
+  overflow: hidden;
+  width: 0;
+  height: 100%;
+  -webkit-transition: .5s ease;
+  transition: .5s ease;
+}
+
+.container1:hover .overlay {
+  width: 100%;
+  left: 0;
+  margin-left: 20px;
+  cursor: pointer;
+}
+
+.text {
+  white-space: nowrap; 
+  color: white;
+  font-size: 17px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+}
+.container1 .overlay .text 
+{
+	display: block;
+    position: relative;
+    top: 50%;
+    word-wrap: break-word;
+    text-align: center;
+}
+
+#myBtn {
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 30px;
+  z-index: 99;
+  border: none;
+  outline: none;
+  background-color: rgb(180, 180, 180);
+  color: white;
+  cursor: pointer;
+  padding: 5px;
+  border-radius: 10px;
+}
+
+#myBtn:hover {
+  background-color: grey;
+}
+
+.navbar1
+{
+	display: none;
+	width: 100%;
+	z-index: 100;
+	padding: 10px;
+}
+.navbar1 ul li
+{
+	margin-top: 15px;
+}
